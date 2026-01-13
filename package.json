@@ -1,5 +1,6 @@
 {
-  "name": "my1999card",
+  "name": "demo",
+  "homepage": "https://www.icsaltby.com/react-performance-demo/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
